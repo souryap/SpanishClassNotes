@@ -1,5 +1,5 @@
 Adjetivos possesivos -
-Mi - My 
+Mi - My
 Mis - My
 Tu - your
 Tus - your
@@ -24,7 +24,7 @@ Esa(feminine) mujer es de Hyderabad.
 
 Aquel - that one (over there)
 Masculine- Aquel - that one
-Aquella casa es de mi tìo.
+Aquella casa es de mi tÃ¬o.
 
 Estos - these - masculine
 estas - 
@@ -101,7 +101,7 @@ rota
 1 Estos pisos son comodos
 2 estas son mis hermanas
 3 Aquellos perros son Dalmatas
-4 Esos museos no son pequeños
+4 Esos museos no son pequeÃ±os
 5 Estas son las escuelas
 6 Estos edificios son grandes
 7 esos parques son muy bonitos
